@@ -43,7 +43,7 @@ Users should be able to:
 <table>
         <tr>
             <td>
-                <img src="./images/desktop-solution.png"
+                <img src="./images/desktop-solution.jpg"
                     alt="Desktop solution" width="100%" title="Desktop solution"/>
             </td>
             <td>
